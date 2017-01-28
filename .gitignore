@@ -1,7 +1,7 @@
 *.class
 
 *.ctxt
-
+.gitignore~
 # Package Files #
 *.jar
 *.war
